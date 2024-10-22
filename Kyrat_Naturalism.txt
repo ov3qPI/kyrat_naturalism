@@ -1,0 +1,66 @@
+[[Collectible]]
+[Blue]
+Flag Iris
+Lotus
+Poppy
+[Green]
+Cobra Lily
+Duthies Bay Tree
+Holy Ghost
+[Purple]
+Delphinium
+Gaping Monks Hood
+[Red]
+Amaranth
+Castor Oil Plant
+Rhododendron
+[White]
+Himalayan Lily
+Love In Mist
+Oyster Mushroom
+Snow Lotus
+[Yellow]
+Louse Wort
+Safflower
+Verbascum
+
+[[Plants]]
+Creepers or Vines
+Coniferous Bush
+Himalayan Cedar Bush
+Honeysuckle Orange
+Honeysuckle Red
+North Leaf Bush
+Sophora Bush
+Lotus or Lillies
+
+[[Trees]]
+Alder
+Birch
+Cherry Blossom
+Chir Pine
+Himalayan Cedar
+Himalayan Fir
+Indian Mahogany
+Larch Dry
+Quercus
+Rosewood
+
+[[Rocks]]
+Dark
+Gray
+Dark, with moss
+Gray, with moss
+
+[[Vegetation]]
+[Himalayan]
+Sedge
+[Midlands]
+Quercus
+Quercus Coniferous
+Quercus Leafy
+[Mountainous]
+Confirous
+Larch
+[Terai]
+Alder
